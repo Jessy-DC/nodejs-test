@@ -2,5 +2,8 @@
   "dependencies": {
     "babel-register": "^6.26.0",
     "jest": "^26.6.3"
+  },
+  "scripts": {
+    "start": "nodemon run http.js"
   }
 }
